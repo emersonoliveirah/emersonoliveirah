@@ -19,16 +19,20 @@
 
 ## 📈 GitHub Stats
 
-![Emerson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emersonoliveirah&show_icons=true&theme=default)
+![Emerson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emersonoliveirah&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonoliveirah&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonoliveirah&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🛠️ Projetos em Destaque
 
-- 🔧 [Sistema de Gerenciamento de Demandas](https://github.com/emersonoliveirah/demands-front)
-- 📋 [API RESTful para Controle de Tarefas](https://github.com/emersonoliveirah/demands-front)
+## 📈 GitHub Stats
+
+![Emerson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emersonoliveirah&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonoliveirah&layout=compact&theme=tokyonight&exclude_repo=Data_Python)
+
 
 ---
 

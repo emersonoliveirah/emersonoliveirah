@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Emerson Ribeiro
+# 👋 Olá! Eu sou o Emerson Machado
 
 💻 Desenvolvedor Full-Stack apaixonado por tecnologia, com foco em criar soluções eficientes e bem estruturadas usando Java, TypeScript e frameworks modernos como Spring Boot e Angular.
 

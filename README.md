@@ -27,8 +27,8 @@
 
 ## 🛠️ Projetos em Destaque
 
-- 🔧 [Sistema de Gerenciamento de Demandas](https://github.com/emersonoliveirah/gerenciamento-demandas)
-- 📋 [API RESTful para Controle de Tarefas](https://github.com/emersonoliveirah/api-controle-tarefas)
+- 🔧 [Sistema de Gerenciamento de Demandas](https://github.com/emersonoliveirah/demands-front)
+- 📋 [API RESTful para Controle de Tarefas](https://github.com/emersonoliveirah/demands-front)
 
 ---
 

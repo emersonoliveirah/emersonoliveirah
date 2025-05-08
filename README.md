@@ -21,7 +21,7 @@
 
 ![Emerson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emersonoliveirah&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonoliveirah&layout=compact&theme=tokyonight)
+!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonoliveirah&layout=compact&theme=tokyonight&exclude_repo=Data_Python&v=1)
 
 ---
 
